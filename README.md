@@ -6,7 +6,7 @@
 
 
 
-- 🌱 Atualmente estou aprendendo
+- 🌱 Aprendendo
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
