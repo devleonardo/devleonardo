@@ -1,9 +1,9 @@
 ### Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-#### Formado em Analise e Desenvolvimento de Sistemas, estudante de desenvolvimento web e banco de dados.
+## Formado em Analise e Desenvolvimento de Sistemas, estudante em desenvolvimento web e banco de dados.
 
-- 🔭 Atualmente estou trabalhando na <b>UP!SIGN Gráfica e Comunicação Visual</b>
-- empresa que abri em 2019 para atender um pouco do mercado gráfico da cidade.
+- 🔭 Atualmente estou trabalhando na <b>UP!SIGN Gráfica e Comunicação Visual.</b>
+Empresa que abri em 2019 para atender um pouco do mercado gráfico da cidade.
 
 - 🌱 Atualmente estou aprendendo
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
