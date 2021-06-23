@@ -4,7 +4,6 @@
 
 - 🔭 Atualmente estou trabalhando como <b>freelancer em desenvolvimento web e comunicação visual</b>
 
-------------
 
 
 - 🌱 Atualmente estou aprendendo
@@ -19,7 +18,6 @@
 - 🤔 Eu procuro ajuda com <b>Banco de Dados</b>
 - 💬 Me pergunte sobre <b>SQL, CorelDraw ;)</b>
 
-------------
 
 
 - 📫 Como me encontrar:
