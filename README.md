@@ -1,6 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-#### Formado em Analise e Desenvolvimento de Sistemas.
+#### Formado em Analise e Desenvolvimento de Sistemas
+#### MBA em Cloud Computing e Devops (cursando)
 
 
 
@@ -11,4 +12,4 @@
   <b><br>Page: <a href="https://devleonardo.github.io/">devleonardo.github.io</a></b>
 
 
-- ⚡ Fun fact: <b>christian, father, guitarist in church.</b>
+- ⚡ Fun fact: <b>christian, father</b>
