@@ -1,6 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 #### Formado em Analise e Desenvolvimento de Sistemas
+#### Analista de Cloud e Infra
 #### MBA em Cloud Computing e Devops (cursando)
 
 
