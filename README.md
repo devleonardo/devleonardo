@@ -14,3 +14,5 @@
 
 
 - ⚡ Fun fact: <b>christian, father</b>
+
+[![devleonardo](https://github-readme-stats.vercel.app/api/top-langs/?username=devleonardo&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
