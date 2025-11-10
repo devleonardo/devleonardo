@@ -2,7 +2,7 @@
 
 #### Formado em Analise e Desenvolvimento de Sistemas
 #### Analista de Cloud e Infra
-#### MBA em Cloud Computing e Devops (cursando)
+#### MBA em Cloud Computing e Devops
 
 
 
